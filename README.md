@@ -8,8 +8,9 @@ This Java project creates a simple file transfer system. Clients can upload file
 - **Progress Tracking**: Real-time monitoring of file upload progress.
 - **Multi-threading**: Server can handle multiple client connections simultaneously.
 - **Graphical Interface**: Swing-based UI for file selection and upload on the client side.
-```
+
 ## Folder Structure
+```
 ├───classes
 │       FileModel.class
 │       FileUploadEvent.class
